@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Oct 2020 10:00:36 at http://www.mefaw.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.mefaw.com/ -O1 "C:\Users\jakew\Desktop\mefaw is gay" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:01:27	Error: 	"Cancelled by User" (-1) at link www.mefaw.com/assets/others/Playboi Carti - Glock ProdLouBeats.mp4 (from www.mefaw.com/)
+10:01:27	Error: 	"Cancelled by User" (-1) at link www.mefaw.com/assets/others/playboi-carti-pop-bottles-instrumental-loubeats.mp4 (from www.mefaw.com/)
+10:01:27	Error: 	"Not Found" (404) at link www.mefaw.com/assets/others/Consolas.ttf (from www.mefaw.com/assets/stylesheets/stylesheet.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 17 links scanned, 13 files written (220004 bytes overall) [1278701 bytes received at 25072 bytes/sec], 58977 bytes transferred using HTTP compression in 4 files, ratio 11%, 3.4 requests per connection
+(3 errors, 0 warnings, 0 messages)
